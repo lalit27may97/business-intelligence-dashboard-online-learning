@@ -1,0 +1,201 @@
+course_id,course_name,category,difficulty,price
+0,Course_0,Web Dev,Intermediate,1763
+1,Course_1,AI,Advanced,1495
+2,Course_2,Business,Advanced,4014
+3,Course_3,Web Dev,Intermediate,596
+4,Course_4,Business,Beginner,3975
+5,Course_5,Business,Advanced,1806
+6,Course_6,Data Science,Intermediate,2375
+7,Course_7,Data Science,Intermediate,4949
+8,Course_8,Data Science,Advanced,2545
+9,Course_9,Web Dev,Intermediate,1339
+10,Course_10,Data Science,Intermediate,3565
+11,Course_11,AI,Beginner,566
+12,Course_12,Web Dev,Beginner,2876
+13,Course_13,Web Dev,Intermediate,2058
+14,Course_14,Data Science,Advanced,3877
+15,Course_15,Business,Advanced,2140
+16,Course_16,AI,Advanced,1874
+17,Course_17,Design,Beginner,77
+18,Course_18,Business,Beginner,2215
+19,Course_19,Business,Advanced,1492
+20,Course_20,Design,Intermediate,786
+21,Course_21,AI,Advanced,4688
+22,Course_22,Web Dev,Intermediate,429
+23,Course_23,Business,Beginner,4810
+24,Course_24,AI,Beginner,3348
+25,Course_25,Business,Advanced,1522
+26,Course_26,Data Science,Beginner,1165
+27,Course_27,Business,Beginner,2978
+28,Course_28,Business,Intermediate,904
+29,Course_29,AI,Beginner,3614
+30,Course_30,Business,Intermediate,4927
+31,Course_31,AI,Beginner,928
+32,Course_32,AI,Beginner,1353
+33,Course_33,Data Science,Intermediate,5
+34,Course_34,Business,Beginner,3373
+35,Course_35,Web Dev,Intermediate,4670
+36,Course_36,Design,Advanced,1873
+37,Course_37,Data Science,Intermediate,3619
+38,Course_38,Design,Advanced,4987
+39,Course_39,Web Dev,Intermediate,1935
+40,Course_40,Design,Advanced,252
+41,Course_41,Data Science,Beginner,1361
+42,Course_42,Data Science,Beginner,3597
+43,Course_43,Design,Intermediate,4022
+44,Course_44,Web Dev,Intermediate,674
+45,Course_45,Web Dev,Intermediate,4786
+46,Course_46,Data Science,Beginner,266
+47,Course_47,Data Science,Intermediate,4969
+48,Course_48,Design,Advanced,4469
+49,Course_49,Web Dev,Intermediate,3227
+50,Course_50,Web Dev,Beginner,809
+51,Course_51,Data Science,Advanced,4456
+52,Course_52,Data Science,Advanced,1259
+53,Course_53,Data Science,Advanced,895
+54,Course_54,Business,Beginner,3295
+55,Course_55,AI,Advanced,1362
+56,Course_56,Business,Intermediate,3589
+57,Course_57,Web Dev,Advanced,2505
+58,Course_58,Web Dev,Beginner,605
+59,Course_59,AI,Intermediate,3406
+60,Course_60,Business,Advanced,641
+61,Course_61,Data Science,Beginner,3107
+62,Course_62,Data Science,Advanced,4797
+63,Course_63,Web Dev,Advanced,4604
+64,Course_64,Data Science,Intermediate,1430
+65,Course_65,AI,Intermediate,3706
+66,Course_66,Data Science,Beginner,1611
+67,Course_67,Data Science,Advanced,4493
+68,Course_68,Business,Beginner,1538
+69,Course_69,Design,Advanced,1850
+70,Course_70,Business,Advanced,2289
+71,Course_71,Business,Intermediate,4909
+72,Course_72,Design,Beginner,4580
+73,Course_73,AI,Advanced,2266
+74,Course_74,Design,Advanced,2348
+75,Course_75,Web Dev,Beginner,4850
+76,Course_76,Design,Advanced,4425
+77,Course_77,Business,Advanced,3561
+78,Course_78,Data Science,Intermediate,1432
+79,Course_79,Data Science,Advanced,815
+80,Course_80,Business,Beginner,2336
+81,Course_81,Web Dev,Intermediate,4981
+82,Course_82,Design,Intermediate,1093
+83,Course_83,Web Dev,Beginner,3855
+84,Course_84,Business,Advanced,3247
+85,Course_85,Business,Intermediate,2642
+86,Course_86,Design,Advanced,2171
+87,Course_87,Design,Intermediate,3574
+88,Course_88,AI,Beginner,913
+89,Course_89,Data Science,Beginner,3699
+90,Course_90,Design,Beginner,4805
+91,Course_91,Business,Advanced,1290
+92,Course_92,AI,Beginner,3550
+93,Course_93,Data Science,Intermediate,2473
+94,Course_94,Design,Advanced,3332
+95,Course_95,Design,Advanced,1166
+96,Course_96,Web Dev,Advanced,2551
+97,Course_97,AI,Intermediate,4482
+98,Course_98,Data Science,Intermediate,4016
+99,Course_99,Data Science,Beginner,3924
+100,Course_100,Data Science,Intermediate,1709
+101,Course_101,Data Science,Advanced,4357
+102,Course_102,Web Dev,Advanced,4458
+103,Course_103,AI,Beginner,1292
+104,Course_104,Data Science,Advanced,2483
+105,Course_105,AI,Beginner,2730
+106,Course_106,Web Dev,Beginner,2753
+107,Course_107,AI,Advanced,4591
+108,Course_108,Data Science,Advanced,1071
+109,Course_109,AI,Intermediate,3922
+110,Course_110,AI,Advanced,869
+111,Course_111,Business,Beginner,4942
+112,Course_112,Business,Intermediate,4068
+113,Course_113,Design,Beginner,1049
+114,Course_114,Web Dev,Beginner,3958
+115,Course_115,Data Science,Intermediate,74
+116,Course_116,Design,Beginner,1028
+117,Course_117,Design,Beginner,2061
+118,Course_118,Web Dev,Beginner,3936
+119,Course_119,Business,Intermediate,4469
+120,Course_120,AI,Intermediate,277
+121,Course_121,Design,Advanced,4882
+122,Course_122,Business,Beginner,1848
+123,Course_123,Design,Intermediate,147
+124,Course_124,Business,Advanced,2220
+125,Course_125,AI,Advanced,4951
+126,Course_126,Business,Intermediate,2146
+127,Course_127,AI,Beginner,756
+128,Course_128,Web Dev,Beginner,3052
+129,Course_129,Data Science,Advanced,3850
+130,Course_130,Web Dev,Beginner,2794
+131,Course_131,Business,Beginner,2800
+132,Course_132,Business,Advanced,770
+133,Course_133,Web Dev,Intermediate,1171
+134,Course_134,Design,Intermediate,287
+135,Course_135,Design,Advanced,244
+136,Course_136,AI,Intermediate,4812
+137,Course_137,Data Science,Beginner,4371
+138,Course_138,Business,Beginner,3634
+139,Course_139,Data Science,Advanced,2318
+140,Course_140,Web Dev,Beginner,2120
+141,Course_141,AI,Intermediate,2244
+142,Course_142,Data Science,Advanced,1534
+143,Course_143,Business,Advanced,1571
+144,Course_144,Data Science,Advanced,100
+145,Course_145,AI,Advanced,1592
+146,Course_146,Business,Beginner,4311
+147,Course_147,Business,Intermediate,4023
+148,Course_148,Business,Beginner,2911
+149,Course_149,Data Science,Advanced,3494
+150,Course_150,AI,Intermediate,4880
+151,Course_151,Business,Intermediate,4970
+152,Course_152,Business,Beginner,3876
+153,Course_153,Business,Beginner,1899
+154,Course_154,Design,Beginner,1376
+155,Course_155,Business,Advanced,821
+156,Course_156,AI,Intermediate,718
+157,Course_157,Data Science,Intermediate,4798
+158,Course_158,Web Dev,Intermediate,389
+159,Course_159,Data Science,Beginner,3032
+160,Course_160,Data Science,Advanced,4618
+161,Course_161,Business,Advanced,2963
+162,Course_162,Design,Intermediate,2524
+163,Course_163,Business,Beginner,2761
+164,Course_164,Data Science,Advanced,339
+165,Course_165,AI,Advanced,780
+166,Course_166,Business,Intermediate,1535
+167,Course_167,Business,Intermediate,182
+168,Course_168,Data Science,Beginner,493
+169,Course_169,Web Dev,Beginner,2484
+170,Course_170,Business,Intermediate,3820
+171,Course_171,Design,Advanced,2163
+172,Course_172,Web Dev,Beginner,1279
+173,Course_173,Data Science,Intermediate,1641
+174,Course_174,AI,Beginner,3321
+175,Course_175,Web Dev,Intermediate,1804
+176,Course_176,Design,Beginner,878
+177,Course_177,Design,Beginner,1369
+178,Course_178,Web Dev,Beginner,589
+179,Course_179,Web Dev,Advanced,4945
+180,Course_180,Data Science,Beginner,1851
+181,Course_181,Design,Advanced,881
+182,Course_182,Business,Intermediate,1827
+183,Course_183,AI,Beginner,3905
+184,Course_184,Data Science,Intermediate,2621
+185,Course_185,Business,Intermediate,3722
+186,Course_186,Design,Beginner,1365
+187,Course_187,AI,Intermediate,4897
+188,Course_188,Design,Intermediate,1049
+189,Course_189,Data Science,Advanced,4637
+190,Course_190,Business,Intermediate,4067
+191,Course_191,Design,Advanced,299
+192,Course_192,Data Science,Intermediate,2674
+193,Course_193,AI,Beginner,3030
+194,Course_194,Business,Intermediate,2706
+195,Course_195,AI,Intermediate,3432
+196,Course_196,Data Science,Intermediate,1107
+197,Course_197,Data Science,Beginner,1234
+198,Course_198,Design,Advanced,2836
+199,Course_199,Business,Beginner,967
